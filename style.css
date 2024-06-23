@@ -1,0 +1,35 @@
+.heading{
+    color: yellow;
+    font-family: algerian;
+    font-size: 25px;
+    letter-spacing: 3px;
+    border: 5px solid blueviolet;
+    background-color: black;
+    border-radius: 20px;
+}
+.head{
+    box-shadow: 5px 5px 5px cyan;
+    border: 7px solid black;
+    width: 100%;
+}
+#body{
+    background-size: cover;
+}
+#song{
+    color: aqua;
+    background-color: blueviolet;
+    text-align: center;
+    border: 7px solid red;
+    border-radius: 20px;
+    font-family: sans-serif;
+    box-shadow: 5px 5px 5px purple;
+}
+.note{
+    font-family: comic;
+}
+canvas{
+    box-shadow: 5px 5px 5px darkgray;
+    border-radius: 5px;
+    border: 10px solid darkred;
+    background-color: azure;
+}
